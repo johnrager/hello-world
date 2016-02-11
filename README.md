@@ -1,2 +1,4 @@
 # hello-world
-Hello World repository.
+
+This repository was created to try out GitHub.  This is an example
+branch.
